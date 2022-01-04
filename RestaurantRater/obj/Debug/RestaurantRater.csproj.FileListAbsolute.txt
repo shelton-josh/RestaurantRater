@@ -105,3 +105,4 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\Restaurant
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.AssemblyReference.cache
