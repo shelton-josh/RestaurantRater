@@ -101,7 +101,6 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\Restaurant
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.AssemblyReference.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\RedBadge\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.dll
